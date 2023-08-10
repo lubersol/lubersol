@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, soy Lucia Bermejo</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Typescript, React avanzado**
 
